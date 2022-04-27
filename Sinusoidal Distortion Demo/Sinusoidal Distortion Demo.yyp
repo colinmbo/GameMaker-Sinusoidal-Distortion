@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_tile","path":"sprites/spr_tile/spr_tile.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":1,},
+    {"id":{"name":"fnt_main","path":"fonts/fnt_main/fnt_main.yy",},"order":0,},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},"order":2,},
     {"id":{"name":"sh_distortion","path":"shaders/sh_distortion/sh_distortion.yy",},"order":0,},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":0,},
